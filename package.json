@@ -1,0 +1,15 @@
+{
+  "name": "cweb1130_lab4",
+  "version": "1.0.0",
+  "description": "You are going perform a series of test operations on Node app(React Front-end and Express Backend) using Jest and Puppeteer testing frameworks.  Some of the operations will include 1)Emulating mobile device 2)Testing Forms 3)Taking screenshots 4)Testing fornted 5)Intercepting requests 6)How to target new tab opened in the headless browser 7)How to debug your tests.  This walkthrough was pulled from [touch4it.com](https://touch4it.com/blog/end-to-end-testing-puppeteer-jest)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
