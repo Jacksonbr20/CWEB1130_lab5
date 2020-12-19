@@ -5,7 +5,7 @@ You are going perform a series of test operations on Node app(React Front-end an
 ## Requirements
 
 ### Step 1 - Create a web project and implement version control
-1.  Create a folder titled **[cweb1130_lab4]**
+1.  Create a folder titled **[cweb1130_lab5]**
 2.  Make sure you are in the newly created directory and install git by running command **[git init]**
 3.  Run the command [git pull origin lab4] to pull down the README.md file that contain instructions
 
@@ -26,3 +26,5 @@ Follow the steps found in webpage and seek to understand what is happening at ea
 	
 
 #### Github Classroom Invitation URL: https://classroom.github.com/a/4e-9BVKy
+
+###completed 12/18/2020
